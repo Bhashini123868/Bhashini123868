@@ -1,9 +1,5 @@
-## Hi there 👋
-
 # Hi 👋, I'm Bhashini Munasinghe  
 ### A passionate Full Stack Developer from Sri Lanka  
-
----
 
 ### 🛠️ Tech Stack  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
@@ -14,8 +10,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
----
 
 ## ⭐ My Projects  
 
@@ -56,8 +50,6 @@
 **Tech Stack:** HTML, CSS, JavaScript  
 📌 A responsive dashboard UI with widgets and charts.  
 
----
-
 ## 🖥️ Java-Based Projects  
 🔹 **[Defense System]**  
 **Tech Stack:** Java  
@@ -71,14 +63,9 @@
 **Tech Stack:** JavaFX  
 📌 A library management system with book tracking and user management.  
 
----
-
 ### 📌 Connect with Me  
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+📧 **Email:** [bhashimunasinghe286@gmail.com](mailto:your-email@example.com)  
 🔗 **GitHub:** [Bhashini123868](https://github.com/Bhashini123868)  
-🚀 **Portfolio:** [your-portfolio-link](#)  
-
----
 
 Feel free to explore and contribute! 🚀✨  
 
