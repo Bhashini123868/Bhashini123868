@@ -18,7 +18,7 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#) <!-- 🔁 Replace with your LinkedIn link -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhashini-munasinghe-14a862334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <!-- 🔁 Replace with your LinkedIn link -->
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/Bhashini123868)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhashimunasinghe286@gmail.com)
 
