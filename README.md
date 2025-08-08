@@ -12,10 +12,15 @@
      and uncomment the static heading below. ===== -->
 
 <!--
-<h1 align="center">🌎 Hello Dev World! I'm Bhashini Munasinghe 👋</h1>
+<h3 align="center">🌎 Hello Dev World!</h3>
+<h1 align="center">I'm <strong>Bhashini Munasinghe</strong> 👋</h1>
 -->
 
-<h1 align="center">🌎 Hello Dev World! I'm <strong>Bhashini Munasinghe</strong> 👋</h1>
+<!-- ===== Preferred: small h3 for Hello Dev World, big h1 for name ===== -->
+<h3 align="center">🌎 Hello Dev World!</h3>
+
+<h1 align="center">I'm <strong>Bhashini Munasinghe</strong> 👋</h1>
+
 <h3 align="center">
   🚀 Aspiring Software Engineer &middot; 💻 Java &middot; 🌐 Angular &middot; ⚛️ React &middot; ⚡ Spring Boot
   &middot; 🛢️ MySQL &middot; 🎯 Web Development &middot; 📚 Lifelong Learner
@@ -26,7 +31,7 @@
   Currently exploring <strong>Cloud ☁️</strong> and <strong>Java 💻</strong>. I love solving real-world problems with clean, scalable, and impactful code! 🚀
 </p>
 
----
+
 
 ### 📌 About Me
 - 🌱 Currently learning **Java** & diving into **Cloud Tech**  
@@ -34,7 +39,7 @@
 - 🔗 GitHub: [Bhashini123868](https://github.com/Bhashini123868)  
 - ⚡ Fun Fact: *I explore the world 🌍 — one line of code at a time!*
 
----
+
 
 ### 🌐 Connect with Me
 <p align="center">
@@ -49,7 +54,7 @@
   </a>
 </p>
 
----
+
 
 ### 🛠️ Technologies & Tools I Use
 <p align="center">
@@ -70,7 +75,7 @@
   <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -79,7 +84,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhashini123868&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
----
 
 > 🌟 *Stay curious, stay passionate, and keep building amazing things!* 💻✨
 
@@ -90,4 +94,3 @@
 2. If you don't want the banner, remove or comment the <img> block and use the static <h1> heading (Option B).
 3. You can customize colors, themes, badges, and the GitHub stats theme via the API query params.
 -->
-
