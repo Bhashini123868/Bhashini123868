@@ -1,71 +1,60 @@
-# Hi 👋, I'm Bhashini Munasinghe  
-### A passionate Full Stack Developer from Sri Lanka  
+<h1 align="center">Hi 👋, I'm Bhashini Munasinghe</h1>
+<h3 align="center">Full Stack Developer | Tech Enthusiast | Lifelong Learner</h3>
 
-### 🛠️ Tech Stack  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+<p align="center">
+  Passionate about building robust backends and elegant frontends. <br>
+  Currently exploring Cloud ☁️ and Java 💻 technologies. <br>
+  I love solving real-world problems with clean and scalable code! 🚀
+</p>
 
-## ⭐ My Projects  
+---
 
-### 🌍 Web-Based Projects  
-🔹 **[Country Search]**  
-**Tech Stack:** HTML, CSS, JavaScript  
-📌 A search tool to find information about countries.  
+- 🌱 I’m currently learning **Java** & diving into **Cloud Tech**  
+- 📧 Email: **bhashimunasinghe286@gmail.com**  
+- 🔗 GitHub: [Bhashini123868](https://github.com/Bhashini123868)  
+- ⚡ Fun Fact: I explore the world 🌍 — one line of code at a time!
 
-🔹 **[Japan Website]**  
-**Tech Stack:** HTML, CSS  
-📌 A website showcasing Japan’s culture and attractions.  
+---
 
-🔹 **[Calculator]**  
-**Tech Stack:** HTML, CSS, JavaScript  
-📌 A fully functional calculator with basic operations.  
+### 🌐 Connect with Me
 
-🔹 **[My Portfolio]**  
-**Tech Stack:** HTML, CSS, JavaScript  
-📌 A personal portfolio website to showcase my skills.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#) <!-- 🔁 Replace with your LinkedIn link -->
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)](https://github.com/Bhashini123868)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhashimunasinghe286@gmail.com)
 
-🔹 **[Guess Game]**  
-**Tech Stack:** HTML, CSS, JavaScript  
-📌 A fun number guessing game.  
+---
 
-🔹 **[MosBurger]**  
-**Tech Stack:** HTML, CSS, JavaScript  
-📌 A fast-food website UI for MosBurger.  
+### 🛠️ Technologies & Tools I Use
 
-🔹 **[ChatCatAI]**  
-**Tech Stack:** HTML, CSS, JavaScript, API  
-📌 A chatbot application using AI APIs.  
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+</p>
 
-🔹 **[To-Do List]**  
-**Tech Stack:** HTML, CSS, JavaScript  
-📌 A task management app to keep track of daily tasks.  
+---
 
-🔹 **[Dashboard]**  
-**Tech Stack:** HTML, CSS, JavaScript  
-📌 A responsive dashboard UI with widgets and charts.  
+### 📊 GitHub Stats
 
-## 🖥️ Java-Based Projects  
-🔹 **[Defense System]**  
-**Tech Stack:** Java  
-📌 A security-focused defense system with multi-layer protection.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhashini123868&show_icons=true&theme=radical" alt="Bhashini's GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhashini123868&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
-🔹 **[Item Management System]**  
-**Tech Stack:** JavaFX  
-📌 A system to manage and track inventory items.  
+---
 
-🔹 **[Library Management System]**  
-**Tech Stack:** JavaFX  
-📌 A library management system with book tracking and user management.  
-
-### 📌 Connect with Me  
-📧 **Email:** [bhashimunasinghe286@gmail.com](mailto:your-email@example.com)  
-🔗 **GitHub:** [Bhashini123868](https://github.com/Bhashini123868)  
-
-Feel free to explore and contribute! 🚀✨  
-
+> “Stay curious, stay passionate, and keep building. 💻✨”
